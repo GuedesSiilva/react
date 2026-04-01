@@ -1,7 +1,8 @@
 .container-fluid{    
     max-width: auto;
 }
-.container{  
+.container{ 
+    color: white;
     max-width:98rem;    
     margin:0 auto;    
 }
